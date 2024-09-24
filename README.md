@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am a college student who is currently using GitHub for version control for games that I am/may be making.
+
+I am also using it as a porfolio for the work I've done.
+
 <!--
 **Mystic5pirit/Mystic5pirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
